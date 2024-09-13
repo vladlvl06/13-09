@@ -1,0 +1,15 @@
+img{
+    width: 500px;
+    height: auto;
+}
+h1 {
+    background-color: rgb(0, 113, 76);
+}
+button {
+    background-color: rgb(0, 113, 76);
+}
+a {
+    text-decoration: none;
+    background-color: rgb(0, 113, 76);
+    color: black;
+}
